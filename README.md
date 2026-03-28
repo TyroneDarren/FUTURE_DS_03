@@ -68,8 +68,6 @@ Browse  →  Add to Cart  →  Checkout  →  Purchase
 
 ##  Key Findings
 
-> *Exact values are computed dynamically by the notebook from the dataset. Below are the types of insights surfaced.*
-
 ### Funnel Conversion Summary
 ```
 Browse          → 10,000 users  (100.0%)
@@ -95,11 +93,11 @@ Purchase        →  1,004 users  ( 10.0%)   ← Step CR: 29.1%  | Lost 2,452 us
 ###  Time Patterns
 - Purchases cluster around specific hours and days of the week
 - Certain weekday + time combinations consistently outperform others
-
+```
 ---
 
 
-##  Technologies Used
+## Technologies Used
 
 | Tool | 
 |------|
